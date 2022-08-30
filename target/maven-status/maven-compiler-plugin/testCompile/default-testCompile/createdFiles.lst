@@ -1,0 +1,10 @@
+TestLionClassConstructorException.class
+TestLionClassMethodGetKittens.class
+TestCatClassMethodGetSound.class
+TestFelineClassMethodGetFamily.class
+TestFelineClassMethodGetKittensWithoutArg.class
+TestCatClassMethodGetFood.class
+TestLionClassMethodDoesHaveMane.class
+TestLionClassMethodGetFood.class
+TestFelineClassMethodGetKittensWithArg.class
+TestFelineClassMethodEatMeat.class
